@@ -656,6 +656,18 @@ video {
   transition-duration: 300ms;
 }
 
+.banner--btn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.375rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  font-weight: 600;
+}
+
 .sr-only {
   position: absolute;
   width: 1px;

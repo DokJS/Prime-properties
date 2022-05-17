@@ -6,4 +6,7 @@
     .nav--link{
         @apply py-4 px-2 font-semibold hover:text-green-500 transition duration-300;
     }
+    .banner--btn{
+        @apply px-8 py-2 flex justify-center items-center rounded-md font-semibold ;
+    }
 }
