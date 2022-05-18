@@ -9,4 +9,7 @@
     .banner--btn{
         @apply px-8 py-2 flex justify-center items-center rounded-md font-semibold ;
     }
+    .card--item{
+        @apply shadow-xl rounded-xl px-4 space-y-3 py-4 w-72 md:w-full mx-auto;
+    }
 }
