@@ -696,6 +696,22 @@ video {
   }
 }
 
+.footer--listTitle{
+  margin-bottom: 1rem;
+  display: block;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  --tw-text-opacity: 1;
+  color: rgba(16, 185, 129, var(--tw-text-opacity));
+}
+
+.footer--list{
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
 .sr-only {
   position: absolute;
   width: 1px;

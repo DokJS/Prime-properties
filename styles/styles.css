@@ -12,4 +12,10 @@
     .card--item{
         @apply shadow-xl rounded-xl px-4 space-y-3 py-4 w-72 md:w-full mx-auto;
     }
+    .footer--listTitle{
+        @apply text-base text-green-500 uppercase font-semibold block mb-4;
+    }
+    .footer--list{
+        @apply font-semibold capitalize;
+    }
 }
